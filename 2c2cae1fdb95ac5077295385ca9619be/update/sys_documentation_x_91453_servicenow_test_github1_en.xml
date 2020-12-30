@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="github1" label="Github1" language="en" table="x_91453_servicenow_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>github1</element>
+            <help/>
+            <hint/>
+            <label>Github1</label>
+            <language>en</language>
+            <name>x_91453_servicenow_test</name>
+            <plural>Github1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-30 22:03:49</sys_created_on>
+            <sys_id>7883b69fdb11201077295385ca9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Github1</sys_name>
+            <sys_package display_value="ServiceNowGithub" source="x_91453_servicenow">2c2cae1fdb95ac5077295385ca9619be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ServiceNowGithub">2c2cae1fdb95ac5077295385ca9619be</sys_scope>
+            <sys_update_name>sys_documentation_x_91453_servicenow_test_github1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-30 22:03:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
